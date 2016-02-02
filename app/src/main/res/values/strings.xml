@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PokeMap</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mainu">Mainu</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_mypkmn">mypkmn</string>
+    <string name="title_activity_flaunch">Flaunch</string>
+</resources>
